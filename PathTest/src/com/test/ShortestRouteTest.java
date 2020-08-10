@@ -7,15 +7,15 @@ public class ShortestRouteTest {
 	/**
 	 * To run the test case please uncomment the main method 
 	 */
-	public static void main(String[] args) {
+	/*public static void main(String[] args) {
 
-		/*new ShortestRouteTest().testCase1(null,false,"A","B");
+		new ShortestRouteTest().testCase1(null,false,"A","B");
 		new ShortestRouteTest().testCase2(null,false,"A","C");
 		new ShortestRouteTest().testCase3(null,false,"A","D");
 		new ShortestRouteTest().testCase4(null,false,"A","J");
 		new ShortestRouteTest().testCase5(null,false,"G","J");
-		*/
-	}
+		
+	}*/
 
 	void testCase5(String [] args, boolean runFlg, String startPointLocal, String endPointLocal) {
 		System.out.println("Test Case 5 --------------");
